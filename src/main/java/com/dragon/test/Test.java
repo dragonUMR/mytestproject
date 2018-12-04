@@ -10,6 +10,7 @@ package com.dragon.test;
 public class Test {
     public static void main(String[] args) {
         System.out.println("develop 分支");
+        System.out.println("update_testmethod");
         System.out.println("develop 分支添加代码");
     }
 }
